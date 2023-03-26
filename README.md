@@ -5,11 +5,9 @@ This is where I am going to write a bio
 
 NC-News Frontend project: link to project...
 
-Developed a dynamic, user friendly Social News Agrregation web application called '.... ' that presents articles that are categorised by various topics in a NAV bar
-
-The presentation of articles is dynamic, allowing users to view articles with sorting options such as date, comment count, and votes and to upvote/downvote articles and comments
-
-A user can log in (... and create a user account?), which is shown by there avatar at the top of the page. Once logged in a user can leave comments on articles, where optimistic rendering confirms a successful comment or vote/unvote on either articles or comments of articles. 
+- Developed a dynamic, user friendly Social News Agrregation web application called '.... ' that presents articles that are categorised by various topics in a NAV bar
+- The presentation of articles is dynamic, allowing users to view articles with sorting options such as date, comment count, and votes and to upvote/downvote articles and comments
+- A user can log in (... and create a user account?), which is shown by there avatar at the top of the page. Once logged in a user can leave comments on articles, where optimistic rendering confirms a successful comment or vote/unvote on either articles or comments of articles. 
 
 NC-News Back-end Project: nc-news
 
