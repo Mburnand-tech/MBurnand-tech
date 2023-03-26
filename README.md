@@ -1,6 +1,6 @@
 ### Hi there 👋, Matt Burnand's Github
 
-NC-News Frontend project: link to project...
+NC-News Frontend project: [repo](https://github.com/Mburnand-tech/nc_news)
 
 - Developed a dynamic, user friendly Social News Agrregation web application called '.... ' that presents articles that are categorised by various topics in a NAV bar
 - The presentation of articles is dynamic, allowing users to view articles with sorting options such as date, comment count, and votes and to upvote/downvote articles and comments
