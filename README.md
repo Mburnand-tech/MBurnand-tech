@@ -8,10 +8,10 @@ NC-News Frontend project: link to project...
 
 NC-News Back-end Project: nc-news
 
-Designed NC-News back-end to mimic a real-world service like Reddit
-Ensured high-quality code with 1000+ lines of test-driven development using jest and supertest
-Implemented GET / POST / PATCH / DELETE routes with optional sorting parameters (sort_by, order, topic, limit, pagination)
-Wrote clear and concise documentation for database setup and endpoint use
+- Designed NC-News back-end to mimic a real-world service like Reddit
+- Ensured high-quality code with 1000+ lines of test-driven development using jest and supertest
+- Implemented GET / POST / PATCH / DELETE routes with optional sorting parameters (sort_by, order, topic, limit, pagination)
+<Wrote clear and concise documentation for database setup and endpoint use>
 
 
 <!--
