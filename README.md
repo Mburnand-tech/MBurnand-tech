@@ -6,7 +6,7 @@ NC-News Frontend project: [repo](https://github.com/Mburnand-tech/nc_news)
 - The presentation of articles is dynamic, allowing users to view articles with sorting options such as date, comment count, and votes and to upvote/downvote articles and comments
 - A user can log in (... and create a user account?), which is shown by there avatar at the top of the page. Once logged in a user can leave comments on articles, where optimistic rendering confirms a successful comment or vote/unvote on either articles or comments of articles. 
 
-NC-News Back-end Project: nc-news
+NC-News Back-end Project: [repo](https://github.com/Mburnand-tech/News_Server)
 
 - Designed NC-News back-end to mimic a real-world service like Reddit
 - Ensured high-quality code with 500+ lines of test-driven development using jest and supertest
