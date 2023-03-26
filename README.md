@@ -1,8 +1,5 @@
 ### Hi there 👋, Matt Burnand's Github
 
-
-This is where I am going to write a bio
-
 NC-News Frontend project: link to project...
 
 - Developed a dynamic, user friendly Social News Agrregation web application called '.... ' that presents articles that are categorised by various topics in a NAV bar
