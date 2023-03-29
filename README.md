@@ -2,7 +2,7 @@
 
 NC-News Frontend project: [repo](https://github.com/Mburnand-tech/nc_news)
 
-- Developed a dynamic, user friendly Social News Agrregation web application called '.... ' that presents articles that are categorised by various topics in a NAV bar
+- Developed a dynamic, user friendly Social News Agrregation web application called NC_news, that presents articles categorised by various topics in a NAV bar at the top
 - The presentation of articles is dynamic, allowing users to view articles with sorting options such as date, comment count, and votes and to upvote/downvote articles and comments
 - A user can log in (... and create a user account?), which is shown by there avatar at the top of the page. Once logged in a user can leave comments on articles, where optimistic rendering confirms a successful comment or vote/unvote on either articles or comments of articles. 
 
