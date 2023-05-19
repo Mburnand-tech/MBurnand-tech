@@ -4,11 +4,11 @@ Through the fog project: [Repo](https://github.com/Mburnand-tech/Through-the-fog
 - A map exploration and geotagging mobile application built with React Native.
 
 NC-News Frontend project: [Repo](https://github.com/Mburnand-tech/nc_news)
-- A Social News Aggregation web application
+- A Social News Aggregation and discussion web application
 
 
 NC-News Back-end Project: [Repo](https://github.com/Mburnand-tech/News_Server)
-- A RESTful API built for a News Application.
+- A RESTful API built for a News and Discussion Application.
 
 
 Robotic Process Automation project: [Repo](https://github.com/Mburnand-tech/Automated_Analysis_13DForms)
