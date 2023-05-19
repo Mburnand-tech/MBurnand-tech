@@ -1,5 +1,7 @@
 ### Hi there 👋, Matt Burnand's Github
 
+Through the fog project: [Repo](https://github.com/Mburnand-tech/Through-the-fog)
+
 NC-News Frontend project: [Repo](https://github.com/Mburnand-tech/nc_news)
 
 - Developed a dynamic, user friendly Social News Agrregation web application called NC_news, that presents articles categorised by various topics in a NAV bar at the top.
@@ -13,6 +15,8 @@ NC-News Back-end Project: [Repo](https://github.com/Mburnand-tech/News_Server)
 - Implemented GET / POST / PATCH / DELETE routes with optional sorting parameters (sort_by, order, topic, limit, pagination).
 <Wrote clear and concise documentation for database setup and endpoint use>
 
+Automation project: [Repo](https://github.com/Mburnand-tech/Automated_Analysis_13DForms)
+  
 
 <!--
 **Mburnand-tech/MBurnand-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
