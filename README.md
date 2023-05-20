@@ -4,15 +4,15 @@
 - A map exploration and geotagging mobile application built with React Native.
 
 **NC-News Front-End Project: [Repo](https://github.com/Mburnand-tech/nc_news)**
-- A Social News Aggregation and discussion web application
+- A Social News Aggregation and discussion web application build with React.
 
 
 **NC-News Back-End Project: [Repo](https://github.com/Mburnand-tech/News_Server)**
-- A RESTful API built for a News and Discussion Application.
+- A RESTful API built for a News and Discussion Application build in JavaScript.
 
 
 **Robotic Process Automation Project: [Repo](https://github.com/Mburnand-tech/Automated_Analysis_13DForms)**
-- An automation project to help my financial analysis.
+- An automation project to help my financial analysis build in UiPath.
 
 <!--
 **Mburnand-tech/MBurnand-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
