@@ -1,9 +1,9 @@
 ### Hi there 👋, Matt Burnand's Github
 
-Through the fog project: [Repo](https://github.com/Mburnand-tech/Through-the-fog)
+Through The Fog Project: [Repo](https://github.com/Mburnand-tech/Through-the-fog)
 - A map exploration and geotagging mobile application built with React Native.
 
-NC-News Frontend project: [Repo](https://github.com/Mburnand-tech/nc_news)
+NC-News Frontend Project: [Repo](https://github.com/Mburnand-tech/nc_news)
 - A Social News Aggregation and discussion web application
 
 
@@ -11,7 +11,7 @@ NC-News Back-end Project: [Repo](https://github.com/Mburnand-tech/News_Server)
 - A RESTful API built for a News and Discussion Application.
 
 
-Robotic Process Automation project: [Repo](https://github.com/Mburnand-tech/Automated_Analysis_13DForms)
+Robotic Process Automation Project: [Repo](https://github.com/Mburnand-tech/Automated_Analysis_13DForms)
 - An automation project to help my financial analysis.
 
 <!--
