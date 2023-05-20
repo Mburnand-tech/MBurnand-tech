@@ -12,7 +12,7 @@ NC-News Back-end Project: [Repo](https://github.com/Mburnand-tech/News_Server)
 
 
 Robotic Process Automation project: [Repo](https://github.com/Mburnand-tech/Automated_Analysis_13DForms)
-- A automation project to improve my financial analysis.
+- An automation project to help my financial analysis.
 
 <!--
 **Mburnand-tech/MBurnand-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
