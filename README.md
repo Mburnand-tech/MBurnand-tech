@@ -7,7 +7,7 @@
 - A Social News Aggregation and discussion web application
 
 
-**NC-News Back-end Project: [Repo](https://github.com/Mburnand-tech/News_Server)**
+**NC-News Back-End Project: [Repo](https://github.com/Mburnand-tech/News_Server)**
 - A RESTful API built for a News and Discussion Application.
 
 
