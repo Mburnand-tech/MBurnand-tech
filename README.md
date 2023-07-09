@@ -12,7 +12,7 @@
 
 
 **Robotic Process Automation Project: [Repo](https://github.com/Mburnand-tech/Automated_Analysis_13DForms)**
-- An automation project to help my financial analysis built in UiPath
+- An automation project to help my financial analysis built in UiPath.
 
 <!--
 **Mburnand-tech/MBurnand-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
