@@ -8,7 +8,7 @@
 
 
 **NC-News Back-End Project: [Repo](https://github.com/Mburnand-tech/News_Server)**
-- A RESTful API built for a News and Discussion Application built in JavaScript.
+- A RESTful API built for a News and Discussion Application built in JavaScript
 
 
 **Robotic Process Automation Project: [Repo](https://github.com/Mburnand-tech/Automated_Analysis_13DForms)**
